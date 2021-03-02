@@ -18,4 +18,4 @@ Extracts Chuck Norris Jokes.
 
 ### API used:-
 
-http://api.icndb.com/jokes/random
+http://api.icndb.com/jokes/
