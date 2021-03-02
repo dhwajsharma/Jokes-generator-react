@@ -16,6 +16,6 @@
 
 Extracts Chuck Norris Jokes.
 
-### Api:-
+### API used:-
 
 http://api.icndb.com/jokes/random
