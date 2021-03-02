@@ -18,7 +18,7 @@ body {
 }
 
 .Box {
-  background-color: whitesmoke;
+  background-color: #6b6b6b;
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
@@ -37,7 +37,7 @@ body {
 
 .Box button {
   background-color: rgb(40, 40, 54);
-  color: whitesmoke;
+  color: #acacac;
   border: 0;
   border-radius: 3px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
